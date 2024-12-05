@@ -1,0 +1,8 @@
+Прочитанные книги и статьи:
+1. К. Вигерс. Разработка требований к программному обеспечению (3е изд)
+2. Серия статей "Системный аналитик. Краткий гайд по профессии" (https://habr.com/ru/articles/841646/)
+3. Современный учебник JavaScript (https://learn.javascript.ru/)
+4. Учебник Node.js/Express (https://code.mu/ru/javascript/nodejs/book/prime/)
+5. Учебник TypeScript (https://code.mu/ru/javascript/typescript/book/prime/) 
+6. Учебник React (https://code.mu/ru/javascript/framework/react/book/prime/)
+7. Статья Диаграмма последовательности (https://habr.com/ru/articles/814769/)
