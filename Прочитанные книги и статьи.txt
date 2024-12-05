@@ -6,3 +6,4 @@
 5. Учебник TypeScript (https://code.mu/ru/javascript/typescript/book/prime/) 
 6. Учебник React (https://code.mu/ru/javascript/framework/react/book/prime/)
 7. Статья Диаграмма последовательности (https://habr.com/ru/articles/814769/)
+8. Статья Памятка по BPMN и BPMN-диаграммам (https://habr.com/ru/companies/sberbank/articles/836092/)
