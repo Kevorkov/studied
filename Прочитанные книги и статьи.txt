@@ -9,3 +9,4 @@
 8. Статья "Памятка по BPMN и BPMN-диаграммам" (https://habr.com/ru/companies/sberbank/articles/836092/)
 9. Серия статей "Основы компьютерных сетей" (https://habr.com/ru/articles/307252/)
 10. Статья "Принципы SOLID, о которых должен знать каждый разработчик" (https://habr.com/ru/companies/ruvds/articles/426413/)
+11. Что такое ACID и причем тут базы данных? (https://leftjoin.ru/all/acid-and-databases/)
