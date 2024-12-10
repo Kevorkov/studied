@@ -10,3 +10,4 @@
 9. Серия статей "Основы компьютерных сетей" (https://habr.com/ru/articles/307252/)
 10. Статья "Принципы SOLID, о которых должен знать каждый разработчик" (https://habr.com/ru/companies/ruvds/articles/426413/)
 11. Что такое ACID и причем тут базы данных? (https://leftjoin.ru/all/acid-and-databases/)
+12. gRPC в качестве протокола межсервисного взаимодействия. Доклад Яндекса (https://habr.com/ru/companies/yandex/articles/484068/)
