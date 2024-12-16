@@ -14,3 +14,6 @@
 Статья "Всё, что вы не знали о CAP теореме" (https://habr.com/ru/articles/328792/)
 Статья "Проектирование спецификации OpenAPI" (https://habr.com/ru/companies/ozontech/articles/825008/)
 Статья "Модульность в JavaScript: CommonJS, AMD, ES Modules" (https://habr.com/ru/companies/otus/articles/798455/)
+Статья "gRPC" (https://habr.com/ru/companies/otus/articles/780720/)
+Статья "Сериализация данных в Golang с Protobuf" (https://habr.com/ru/companies/otus/articles/784732/)
+Статья "Структурированный протокол обмена данных Protobuf или JSON во фронтенде?"(https://habr.com/ru/articles/489916/)
