@@ -19,3 +19,4 @@
 Статья "Структурированный протокол обмена данных Protobuf или JSON во фронтенде?"(https://habr.com/ru/articles/489916/)
 Статья "Логирование и трассировка запросов — лучшие практики. Доклад Яндекса" (https://habr.com/ru/companies/yandex/articles/489048/)
 Серия статей "Принципы юнит-тестирования" (https://habr.com/ru/companies/sportmaster_lab/articles/676840/)
+Статья "Что такое функциональное программирование?"(https://habr.com/ru/articles/570642/)
