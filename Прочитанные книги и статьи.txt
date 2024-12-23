@@ -20,3 +20,4 @@
 Статья "Логирование и трассировка запросов — лучшие практики. Доклад Яндекса" (https://habr.com/ru/companies/yandex/articles/489048/)
 Серия статей "Принципы юнит-тестирования" (https://habr.com/ru/companies/sportmaster_lab/articles/676840/)
 Статья "Что такое функциональное программирование?"(https://habr.com/ru/articles/570642/)
+Статья "Иммутабельность в JavaScript" (https://habr.com/ru/articles/302118/)
