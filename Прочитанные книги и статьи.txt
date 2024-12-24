@@ -21,3 +21,5 @@
 Серия статей "Принципы юнит-тестирования" (https://habr.com/ru/companies/sportmaster_lab/articles/676840/)
 Статья "Что такое функциональное программирование?"(https://habr.com/ru/articles/570642/)
 Статья "Иммутабельность в JavaScript" (https://habr.com/ru/articles/302118/)
+Статья "Принципы объектно-ориентированного программирования" (https://habr.com/ru/companies/otus/articles/525336/)
+Статья "Основные принципы разработки (SOLID, KISS и т. д.)" (https://habr.com/ru/articles/810941/)
