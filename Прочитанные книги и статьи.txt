@@ -23,3 +23,4 @@
 Статья "Иммутабельность в JavaScript" (https://habr.com/ru/articles/302118/)
 Статья "Принципы объектно-ориентированного программирования" (https://habr.com/ru/companies/otus/articles/525336/)
 Статья "Основные принципы разработки (SOLID, KISS и т. д.)" (https://habr.com/ru/articles/810941/)
+Статья "Нормализация баз данных простыми словами" (https://info-comp.ru/database-normalization)
