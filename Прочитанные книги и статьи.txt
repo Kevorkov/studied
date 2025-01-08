@@ -25,4 +25,7 @@
 Статья "Основные принципы разработки (SOLID, KISS и т. д.)" (https://habr.com/ru/articles/810941/)
 Статья "Нормализация баз данных простыми словами" (https://info-comp.ru/database-normalization)
 Курс лекций. Карпова И.П. "Базы данных" (УДК 004.65)
-Разбор UI/UX на примере прототипа в Figma и основные принципы (https://habr.com/ru/articles/508028/)
+Статья "Разбор UI/UX на примере прототипа в Figma и основные принципы" (https://habr.com/ru/articles/508028/)
+Статья "Принципы проектирования UX/UI в веб-разработке" (https://appmaster.io/ru/blog/printsipy-proektirovaniia-ux-ui-veb-razrabotki)
+Статья "Основные принципы UX/UI дизайна" (https://sky.pro/wiki/profession/osnovnye-principy-uxui-dizajna/)
+Статья "Методы проектирования интерфейсов" (https://sky.pro/wiki/profession/metody-proektirovaniya-interfejsov/)
