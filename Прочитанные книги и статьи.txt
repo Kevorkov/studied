@@ -29,3 +29,4 @@
 Статья "Принципы проектирования UX/UI в веб-разработке" (https://appmaster.io/ru/blog/printsipy-proektirovaniia-ux-ui-veb-razrabotki)
 Статья "Основные принципы UX/UI дизайна" (https://sky.pro/wiki/profession/osnovnye-principy-uxui-dizajna/)
 Статья "Методы проектирования интерфейсов" (https://sky.pro/wiki/profession/metody-proektirovaniya-interfejsov/)
+Статья "Гайд по DevOps для начинающих" (https://habr.com/ru/companies/skillfactory/articles/509344/)

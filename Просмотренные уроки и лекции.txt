@@ -1,3 +1,4 @@
 OpenAPI и Swagger за 1 час (https://www.youtube.com/watch?v=z3lat1gzaKk&list=PL4MpKy3QjNp8IsepABrb_c6D867DFO6aR)
 React & Node.js ИНТЕРНЕТ МАГАЗИН С НУЛЯ. PERN stack PostgreSQL + express + React js + node.js (https://www.youtube.com/watch?v=H2GCkRF9eko)
 Продвинутый BACKEND на Node.js. Nest js ПОЛНЫЙ КУРС & Docker (https://www.youtube.com/watch?v=dDeWWQWMM-Y&list=PL6DxKON1uLOFJ5_dDcX7G1osKnsBlCaaT&index=7&t=133s)
+Базы данных за 42 минуты. Теория (https://www.youtube.com/watch?v=YdCGGBUCoDQ&t=6s)
